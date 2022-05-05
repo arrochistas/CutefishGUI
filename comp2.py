@@ -10,5 +10,5 @@ os.system("git clone https://github.com/cutefishos/core --branch=0.3 ~/Downloads
 os.system("cd ~/Downloads/cutefish/core && dpkg-buildpackage -uc -us -b")
 os.system("cd ~/Downloads/cutefish && sudo apt-get install -y ./*.deb")
 os.system("git clone https://github.com/cutefishos/calculator --branch=0.3 ~/Downloads/cutefish/calculator && cd ~/Downloads/cutefish/calculator && mkdir build && cd build/ && cmake .. && make && sudo make install")
-os.system("git clone https://github.com/cutefishos/icons --branch=0.3 ~/Downloads/cutefish/icons && cd icons && mkdir build && cd build && cmake .. && make && sudo make install")
+os.system("git clone https://github.com/cutefishos/icons --branch=0.3 ~/Downloads/cutefish/icons && cd ~/Downloads/cutefish/icons && mkdir build && cd build && cmake .. && make && sudo make install")
 #end
