@@ -1,4 +1,6 @@
 # Cutefish-For-All
 <body>
-<h3>hello<h3>  
+<h2>ENGLISH INFO:</h2>
+<br>
+<h2>PORTUGUESE INFO:</h2>
 </body>
