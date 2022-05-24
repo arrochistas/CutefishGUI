@@ -3,5 +3,5 @@
 <h4>
 <code>git clone https://github.com/victorbelaw/CutefishGUI/</code>
   <br>
-<code>cd CutefishGUI && ./CutefishGUI</code>
+<code>cd CutefishGUI && chmod +x CutefishGUI && ./CutefishGUI</code>
 </h4>
