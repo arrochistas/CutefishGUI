@@ -38,7 +38,7 @@ dpkg-buildpackage -uc -us -b
 cd ~/Downloads/cutefish
 git clone https://github.com/cutefishos/settings --branch=0.3
 cd settings
-dpkg-buildpackage -uc -us -
+dpkg-buildpackage -uc -us -b
 cd ~/Downloads/cutefish
 git clone https://github.com/cutefishos/statusbar --branch=0.3
 cd statusbar
