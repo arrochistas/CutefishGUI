@@ -1,6 +1,6 @@
 <h1>Portuguese info:</h1>
 <h3>
-O Script de instalação do Cutefish funciona para diversar distribuições linux, como:<br>
+O Script de instalação do Cutefish funciona para diversas distribuições linux, como:<br>
 </h3>
 <h4>
 Ubuntu<br>
